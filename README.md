@@ -49,9 +49,3 @@
 - 比传统外包快5倍
 - 技术栈：Next.js + Supabase
 - 私信咨询
-
----
-
-📊 **GitHub Stats**
-
-![Your GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rerewang&show_icons=true&theme=radical)
